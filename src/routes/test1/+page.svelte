@@ -6,4 +6,4 @@
 <div>{page.url.pathname}</div>
 
 
-<a href="{base}/">click</a>
+<a href="/">click</a>

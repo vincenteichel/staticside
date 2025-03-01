@@ -8,9 +8,6 @@ const config = {
 	preprocess: vitePreprocess(),
 
 	kit: {
-		csrf: {
-			checkOrigin: false
-		},
 		adapter: adapter({ fallback: "404.html" }),
 	}
 	
