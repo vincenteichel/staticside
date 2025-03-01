@@ -1,0 +1,1 @@
+var s;const t=((s=globalThis.__sveltekit_1u5cmxh)==null?void 0:s.base)??"";var e;const l=((e=globalThis.__sveltekit_1u5cmxh)==null?void 0:e.assets)??"file:///C:/Users/VincentEichel/Desktop/Cloud/template/build";export{l as a,t as b};
